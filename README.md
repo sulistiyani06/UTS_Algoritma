@@ -76,7 +76,7 @@ int main()
     cin >> N;
 
 
-    Batas = N + 140;
+    Batas = N + 100;
     X = 20;
     T = N;
 
